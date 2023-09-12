@@ -1,0 +1,3 @@
+/wangjiadong/opencltest/build/CMakeFiles/rebuild_cache.dir
+/wangjiadong/opencltest/build/CMakeFiles/edit_cache.dir
+/wangjiadong/opencltest/build/CMakeFiles/test.dir
